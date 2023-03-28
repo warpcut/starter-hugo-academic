@@ -33,6 +33,7 @@ sections:
       title: Education
       items:
         - title: PhD in Computer Science
+          date_format: Jan 2006
           institution: Univeristy of Milan
           date_start: '2021-10-01'
           company: University of Milan 
