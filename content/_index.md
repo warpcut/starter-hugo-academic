@@ -35,7 +35,7 @@ sections:
         - title: PhD in Computer Science
           institution: Univeristy of Milan
           date_start: '2021-10-01'
-          company: University of Milan
+          company: University of Milan 
     #      company_url: ''
     #      company_logo: org-gc
           location: Milan
