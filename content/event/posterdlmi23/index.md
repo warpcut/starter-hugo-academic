@@ -40,7 +40,7 @@ links:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 #url_code: ''
-url_pdf: uploads/resume.pdf
+url_pdf: uploads/poster_colussi.pdf
 #url_slides: ''
 #url_video: ''
 

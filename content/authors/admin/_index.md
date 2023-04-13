@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Marco Colussi is a PhD student at Everyware Lab, his reseach intrests include machine learning and its applications in medical imaging.
+I'm a PhD student at Everyware Lab (UniMi), my reseach intrests include machine learning and its applications in medical imaging, from pathology classification, to anomaly detection and reconstruction.
 {style="text-align: justify;"}
