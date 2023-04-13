@@ -1,5 +1,5 @@
 ---
-title: Multi-task learning for automated recess detection and distension in hemophilic patients
+title: Multi-task learning for automated recess detection and distension classification in hemophilic patients
 
 event: Deep Learning for Medical Imaging school
 event_url: https://deepimaging2023.sciencesconf.org
