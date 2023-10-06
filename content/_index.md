@@ -32,6 +32,14 @@ sections:
     content:
       title: Education
       items:
+        - title: PhD visiting in Computer Science
+          date_format: Jan 2006
+          institution: École de technologie supérieure, Montreal
+          date_start: '2023-09-10'
+          company: ÈTS Montreal 
+    #      company_url: ''
+    #      company_logo: org-gc
+          location: Montreal
         - title: PhD in Computer Science
           date_format: Jan 2006
           institution: Univeristy of Milan
