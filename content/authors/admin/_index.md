@@ -26,9 +26,9 @@ bio: My research interests focus on machine learning and its application to medi
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Machine Learning
+  - Computer Vision
   - Medical Imaging
+  - Anomaly detection
 
 # Education to show in About widget
 education:

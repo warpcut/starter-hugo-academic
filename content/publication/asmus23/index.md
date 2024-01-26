@@ -25,7 +25,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Simplifying Medical Ultrasound"
-publication_short: "ASMUS"
+publication_short: "ASMUS23"
 
 abstract: "People with hemophilia require frequent diagnoses of joint bleeding. This is currently achieved with visits to specialized centers. One possibility is to have a point-of-care acquisition of the ultrasound joint image by the patients themselves, followed by a remote evaluation by the practitioner. However, the acquisition of US images is operator-dependent, so it is unclear to what extent patients can acquire images that are suitable for remote diagnosis. In this paper, we present GAJA (Guided Acquisition of Joint ultrAsound), an application designed to guide the patient in collecting US images of their own joints, which are then transmitted to a medical practitioner. GAJA uses a collaborative interaction approach, in which an expert practitioner collects a reference US image of a specific scan during an in-person clinical visit. Anatomical markers for the target joint are automatically extracted and then used as a reference to guide the patient in properly positioning the US probe."
 
