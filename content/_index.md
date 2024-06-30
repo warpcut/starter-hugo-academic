@@ -36,6 +36,7 @@ sections:
           date_format: Jan 2006
           institution: École de technologie supérieure, Montreal
           date_start: '2023-09-10'
+          date_end: '2024-03-10'
           company: ÈTS Montreal 
     #      company_url: ''
     #      company_logo: org-gc
@@ -234,6 +235,19 @@ sections:
   #    title: Popular Topics
   #  design:
   #    columns: '2'
+
+  - block: collection
+    id: teaching
+    content:
+      title: Teaching activities
+      subtitle: "(2023-24)"
+      filters:
+        folders:
+          - teaching
+    design:
+      columns: '2'
+      view: compact
+
   - block: contact
     id: contact
     content:

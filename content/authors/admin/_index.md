@@ -19,7 +19,7 @@ role: Ph.D. in Artificial Intelligence for Medical Imaging
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Milan
-    url: https://www.unimi.com/
+    url: https://www.unimi.it/en
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests focus on machine learning and its application to medical imaging.
