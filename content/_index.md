@@ -32,6 +32,12 @@ sections:
     content:
       title: Education
       items:
+        - title: PostDoc in Computer Science
+          date_format: Jan 2006
+          institution: Univeristy of Milan
+          date_start: '2024-10-01'
+          #date_end: '2025-10-01'
+          company: University of Milan
         - title: PhD visiting in Computer Science
           date_format: Jan 2006
           institution: École de technologie supérieure, Montreal
@@ -45,6 +51,7 @@ sections:
           date_format: Jan 2006
           institution: Univeristy of Milan
           date_start: '2021-10-01'
+          date_end: '2024-11-04'
           company: University of Milan 
     #      company_url: ''
     #      company_logo: org-gc
@@ -240,7 +247,7 @@ sections:
     id: teaching
     content:
       title: Teaching activities
-      subtitle: "(2023-24)"
+      subtitle: "(2023-25)"
       filters:
         folders:
           - teaching

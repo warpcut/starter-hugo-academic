@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. in Artificial Intelligence for Medical Imaging
+role: PostDoc in Artificial Intelligence for Medical Imaging
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -33,6 +33,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PostDoc  in Computer Science
+      institution: Univeristy of Milan
+      year: 2025
     - course: PhD visiting  in Computer Science
       institution: École de technologie supérieure, Montreal
       year: 2023
@@ -83,6 +86,5 @@ email: ''
 highlight_name: true
 ---
 
-I'm a PhD student at Everyware Lab (UniMi), my reseach intrests include machine learning and its applications in medical imaging, from pathology classification, to anomaly detection and reconstruction.
-Currently undergoing a PhD visiting at ÈTS Montreal.
+I'm a Post Doc at Everyware Lab (UniMi), my reseach intrests include machine learning and its applications in medical imaging, from pathology classification, to anomaly detection and segmentation.
 {style="text-align: justify;"}

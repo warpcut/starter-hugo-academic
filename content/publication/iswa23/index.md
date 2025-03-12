@@ -35,7 +35,7 @@ tags:
 - Machine learning
 - Multi-task learning
 - Ultrasound images
-featured: True
+featured: False
 
 # links:
 # - name: ""

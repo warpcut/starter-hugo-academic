@@ -3,7 +3,7 @@ title: "Lab: Ambient Intelligence and Domotics"
 
 location:  Università degli studi Milano-Bicocca (U6)
 address:
-  street: 1055 Canada Pl
+  street: 
   city: Milan
   region: Milan
   postcode: '20125'
@@ -15,8 +15,8 @@ abstract: "The continuous and rapid development of sophisticated sensing devices
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-10-08T08:30:00Z'
-date_end: '2023-10-08T12:30:00Z'
+date: '2024-03-01T08:30:00Z'
+date_end: '2024-06-01T12:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -32,7 +32,7 @@ links:
   - icon: university
     icon_pack: fa
     name: Course website
-    url: https://elearning.unimib.it/course/info.php?id=51015
+    url: https://elearning.unimib.it/course/info.php?id=57807
 #url_code: ''
 #url_pdf: uploads/colussi_poster_ASMUS23.pdf
 #url_slides: ''
